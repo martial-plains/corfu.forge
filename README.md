@@ -7,7 +7,7 @@ Add this to `~/.config/forge/init.rhai`:
 
 ```rhai
 use_package("corfu", #{
-  vc: "git@github.com:martial-plains/corfu.forge.git",
+  vc: "https://github.com/martial-plains/corfu.forge.git",
   demand: true,
 });
 ```
