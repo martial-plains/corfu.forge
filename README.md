@@ -8,7 +8,6 @@ Add this to `~/.config/forge/init.rhai`:
 ```rhai
 use_package("corfu", #{
   vc: "https://github.com/martial-plains/forge-plugin-corfu",
-  pin: "v0.1.0",
   demand: true,
 });
 ```
